@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raztrix
 - 👀 I’m interested in games and web development
 - 🌱 I’m currently learning Fullstack web development
-- 💞️ I’m looking to collaborate on any software that contains Javascript or Python.
+- 💞️ I’m looking to collaborate on any software that contains Javascript or C#.
 - 📫 Reach me via elcocteldev@gmail.com
 
 <!---
