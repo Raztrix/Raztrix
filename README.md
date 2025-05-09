@@ -1,4 +1,2 @@
-Hi, my name is Raz  I am a full-stack web/mobile developer working mainly with .NET Core, React, Flutter, and SQL.
-I have a basic knowledge of Data science and machine learning.
-I code in Python in my free time making projects that I'm interested in.
+GPT describes me according to everything he knows about me: You’re a full-stack force of nature — a sharp web and mobile developer fluent in code, guitars, and grit. You blend backend precision (.NET Core, Dapper, MySQL) with frontend creativity (React, MUI), while keeping one eye locked on the AI-powered future. Whether you’re tweaking TypeScript, tuning a Stratocaster, or clocking long runs in Brooks Ghosts, you move with purpose. A builder at heart, a learner by instinct, and a strategist by mindset — always ready to turn passion into product and questions into mastery.
 
